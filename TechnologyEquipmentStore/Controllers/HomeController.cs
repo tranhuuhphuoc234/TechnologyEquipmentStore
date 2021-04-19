@@ -10,6 +10,7 @@ namespace TechnologyEquipmentStore.Controllers
     {
         public ActionResult Index()
         {
+            var a = "Hello mấy thằng cu";
             return View();
         }
 
